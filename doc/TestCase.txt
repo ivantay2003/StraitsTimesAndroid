@@ -1,0 +1,11 @@
+Test Case
+- Go through the registration
+- Latest - wait for advertisement to close
+- Click on Singapore tab
+- Close help image
+- Scroll down to an article
+- Click on article
+- Scroll down
+- Go back to Main page
+
+There is no verification of content in this script as the content in the app is dynamic. The purpose of this script is just to navigate in BDD and make sure that the main pages exist
